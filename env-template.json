@@ -1,0 +1,10 @@
+{
+  "iterations": 1,
+  "party_size": 2,
+  "date": "2024-08-13",
+  "venue_id": "440 for a hotel restaurant; 42534 for DCP",
+  "payment_method": 0,
+  "api_key": "replace me",
+  "auth_token": "replace me",
+  "universal_token": "replace me"
+}
